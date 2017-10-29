@@ -1,0 +1,106 @@
+html{
+
+height: 100%;
+width: 100%;
+background-color: TEAL;
+
+}
+body{
+
+height: 100%;
+width: 100%;
+background-color: TEAL;
+
+}
+.header{
+
+height: 55PX;
+width: 1920PX;
+background-color: black;
+float: left;
+
+}
+.ButterBot{
+
+height: 280px;
+width: 497px;
+float: center;
+
+
+}
+.halfcol{
+
+height: 25%;
+width: 50%;
+background-color: MAGENTA;
+float: left;
+
+}
+.halfcol{
+
+height: 25%;
+width: 50%;
+background-color: MAGENTA;
+float: left;
+
+}
+.quatercol{
+
+height: 25%;
+width: 25%;
+background-color: Orange;
+float: left;
+
+}
+.threequatercol{
+
+height: 25%;
+width: 75%;
+background-color: Blue;
+float: left;
+
+}
+.thirdcol{
+
+height: 25%;
+width: 33%;
+background-color: blue;
+float: left;
+
+}
+.threequatercol{
+
+height: 25%;
+width: 75%;
+background-color: Salmon;
+float: left;
+
+}
+.twothirdcol{
+
+height: 25%;
+width: 66%;
+background-color: black;
+float: left;
+
+}
+<style>
+#button {
+    width: 6em;
+    border: 2px solid green;
+    background: #ffe;
+    border-radius: 5px;
+}
+a {
+    display: block;
+    width: 50%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
+</style>

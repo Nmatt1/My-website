@@ -1,0 +1,43 @@
+html{
+
+height: 100%;
+width: 100%;
+background-color: TEAL;
+
+}
+.header{
+
+height: 55PX;
+width: 1920PX;
+background-color: black;
+float: left;
+
+}
+.WideEye{
+
+height: 280px;
+width: 497px;
+float: center;
+
+
+}
+<style>
+#button {
+    width: 6em;
+    border: 2px solid green;
+    background: #ffe;
+    border-radius: 5px;
+}
+a {
+    display: block;
+    width: 50%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
+</style>
